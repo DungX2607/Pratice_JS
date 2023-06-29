@@ -1,1 +1,1 @@
-# Pratice_JS_30_days
+30 days of JavaScript programming challenge !!!
